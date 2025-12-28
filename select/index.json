@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "-LEGNE- 仇なす剣 光の旋律 (GAME VERSION)",
+  "base_artist": "神崎蘭子(CV:内田真礼)",
+  "createdAt": "2025-12-28T03:21:55.700707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣 光の旋律",
+      "artist": "Rosenburg Engel [神崎蘭子]",
+      "has_synced": true,
+      "path": "select/01_-LEGNE-_仇なす剣_光の旋律_Rosenburg_Engel_[神崎蘭子].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣 光の旋律",
+      "artist": "Rosenburg Engel",
+      "has_synced": true,
+      "path": "select/02_-LEGNE-_仇なす剣_光の旋律_Rosenburg_Engel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣光の旋律",
+      "artist": "Rosenburg Engel",
+      "has_synced": true,
+      "path": "select/03_-LEGNE-_仇なす剣光の旋律_Rosenburg_Engel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣光の旋律",
+      "artist": "Rosenburg Engel ・ 神崎蘭子",
+      "has_synced": true,
+      "path": "select/04_-LEGNE-_仇なす剣光の旋律_Rosenburg_Engel_・_神崎蘭子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣 光の旋律",
+      "artist": "Rosenburg Engel [神崎蘭子(CV:内田真礼)]",
+      "has_synced": true,
+      "path": "select/05_-LEGNE-_仇なす剣_光の旋律_Rosenburg_Engel_[神崎蘭子(CV_内田真礼)].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣光の旋律",
+      "artist": "Rosenburg Engel",
+      "has_synced": true,
+      "path": "select/06_-LEGNE-_仇なす剣光の旋律_Rosenburg_Engel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "-LEGNE- 仇なす剣光の旋律 (オリジナル・カラオケ)",
+      "artist": "Rosenburg Engel",
+      "has_synced": true,
+      "path": "select/07_-LEGNE-_仇なす剣光の旋律_(オリジナル・カラオケ)_Rosenburg_Engel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "-LEGNE- 仇なす剣 光の旋律",
+      "artist": "神崎蘭子",
+      "has_synced": false,
+      "path": "select/pl_01_-LEGNE-_仇なす剣_光の旋律_神崎蘭子.txt"
+    }
+  ]
+}
